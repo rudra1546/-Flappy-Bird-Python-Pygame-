@@ -1,3 +1,5 @@
+👨‍💻 Created by [Rudra Dave](https://github.com/rudra1546)
+
 # 🐦 Flappy Bird (Python + Pygame)
 
 A simple Flappy Bird clone built using **Python** and **Pygame**.  
